@@ -7,7 +7,7 @@ Kelompok: OPAL
 
 ---
 
-## 📌 Deskripsi Tugas
+Deskripsi Tugas
 
 Tugas ini terdiri dari dua fase pengerjaan untuk menyelesaikan dua problem pemrograman:
 
@@ -17,7 +17,7 @@ Tugas ini terdiri dari dua fase pengerjaan untuk menyelesaikan dua problem pemro
 2. **Problem 2 — Alien-In-The-Middle**
    Program penyandian (*cipher*) pesan, di mana setiap huruf digeser sejumlah nilai posisi alfabet dari huruf sebelumnya (pada pesan asli), dengan aturan "berputar kembali" jika hasil pergeseran melewati huruf Z.
 
-## 🗂️ Struktur Repository
+Struktur Repository
 
 ```
 ├── Fase1_Pseudocode_Flowchart.pdf   # Fase 1: pseudocode & flowchart kedua problem
@@ -26,7 +26,7 @@ Tugas ini terdiri dari dua fase pengerjaan untuk menyelesaikan dua problem pemro
 └── README.md
 ```
 
-## 🚧 Fase Pengerjaan
+Fase Pengerjaan
 
 ### Fase 1 — Logika Penyelesaian
 Berisi pseudocode dan flowchart untuk masing-masing problem beserta penjelasan logikanya, dirangkum dalam satu file PDF (`Fase1_Pseudocode_Flowchart.pdf`).
@@ -36,7 +36,7 @@ Kedua problem diimplementasikan dalam C++ dengan ketentuan:
 - Hanya menggunakan library `<iostream>`
 - Tidak menggunakan function bawaan library lain — seluruh function pendukung (jika ada) dibuat manual (*user-defined function*)
 
-## ⚙️ Cara Menjalankan Program
+Cara Menjalankan Program
 
 Kompilasi dan jalankan masing-masing file menggunakan `g++`:
 
@@ -67,6 +67,6 @@ Masukkan pesan asli (huruf kapital, tanpa spasi): ALIENS
 Pesan tersandi: AMUNSG
 ```
 
-## 🏫 Informasi
+Informasi
 
 Tugas ini dikerjakan sebagai bagian dari rangkaian program **TETI Lab Skill (TLS) 2026** di DTETI, Fakultas Teknik, Universitas Gadjah Mada.
